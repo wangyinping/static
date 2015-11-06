@@ -1,4 +1,4 @@
-//base paths
+//base paths 
 var basePaths = {
     src : 'src/',
     dest : 'dist/'
